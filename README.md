@@ -59,6 +59,22 @@ To see how the application works, here are the screenshots of the main interface
 ### 1. Install Dependencies
 Make sure you have Python installed, then run this command in your terminal:
 
+bash
+pip install mysql-connector-python tkcalendar
+
+2. Setup the Database
+Open your MySQL command line or workbench.
+
+Create a database named uzair.
+
+Import your tables using the provided mg.sql file.
+
+3. Run the App
+Launch the core program file:
+
+python mainpg.py
+
+
 <img width="2481" height="1754" alt="uzair project pdf_page-0001" src="https://github.com/user-attachments/assets/d86de71d-86fe-42a3-a326-f145a859a862" />
 
 
