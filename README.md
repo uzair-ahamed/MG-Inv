@@ -58,14 +58,8 @@ To see how the application works, here are the screenshots of the main interface
 
 ### 1. Install Dependencies
 Make sure you have Python installed, then run this command in your terminal:
-```bash
-pip install mysql-connector-python tkcalendar
 
-<img width="1121" height="792" alt="Screenshot 2026-07-10 at 6 04 19 PM" src="https://github.com/user-attachments/assets/5eff0bf0-366a-4d23-8ea9-ffc43b1abf26" />
-
-
-
-
+<img width="2481" height="1754" alt="uzair project pdf_page-0001" src="https://github.com/user-attachments/assets/d86de71d-86fe-42a3-a326-f145a859a862" />
 
 
 
